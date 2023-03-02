@@ -20,7 +20,7 @@ Data Analysis Project Pipeline
   
 ### Building the database
 
-The tables necessary for analysis were combined into a temp table using the WITH and UNION SQL Statements
+The tables necessary for analysis were combined into a CTE using the WITH and UNION SQL Statements
 
 The dataset did not have a column containing revenue so one must be created by performing calculations. The total length of stay was calculated by adding the "stays_in_weekend_nights" and "stays_in_week_nights" fields. Next, the total length of stay field was multiplied by the adr field to find the revenue generated per reservation.
 
