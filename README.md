@@ -44,30 +44,30 @@ There are two types of hotels contained in the dataset so annual revenue can be 
 Both types of hotels saw steady growth in the year 2019.
 
 ### Connect Power BI to the database
-The data was imported into Power BI for vizualization.
+The data was imported into Power BI for visualization.
 
 Discounts should be applied to find the annual revenue after discounts. This was done by adding a custom column in Power BI. Calculated by multiplying the length of stay by the discounted daily rate.
 
 Cancellation rate was calculated to help hotel managers understand trends in cancellations and adjust their operations and policies accordingly and revenue was adjusted to not account for reservations that were canceled.
 
+### Visualization
+
 ![image](https://user-images.githubusercontent.com/59523096/222331717-991918bd-673a-43fa-84e1-6e2261e60cb3.png)
 
-## Findings
+### Findings
 
-### Cancellations
+#### Cancellations
 
 ﻿At 31.56%, July had the highest Cancellation Rate and was 62.04% higher than November, which had the lowest Cancellation Rate at 19.47%.
 
 Across all 12 Month, Cancellation Rate ranged from 19.47% to 31.56%.
 
-### Revenue
+#### Revenue
 
 ﻿Revenue for City Hotel (743.39% increase) and Resort Hotel (346.26% increase) both trended up between Sunday, July 1, 2018 and Monday, September 14, 2020.
 
 ﻿The most recent Revenue anomaly was on Monday, August 17, 2020, when Resort Hotel had a high of $36,357.77.
 
 Revenue for Resort Hotel started trending down on Saturday, November 2, 2019, falling by 26.87% ($3,162.25) in 7.57 months.
-
-![image](https://user-images.githubusercontent.com/59523096/222331810-524db77d-3a16-4689-9d64-527a7d9b5df5.png)
 
 
