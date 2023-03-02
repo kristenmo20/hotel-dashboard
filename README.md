@@ -1,4 +1,4 @@
-# hotel-dashboard
+# Hotel Dashboard
 Dashboard for hotel management to track revenue and cancellation rates by month
 
 ## Goal:
